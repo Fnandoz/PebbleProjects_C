@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lfgsnando@hotmail.com",
+    "longName": "test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "test",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "53250ae7-97ef-47eb-9170-48266c14eb1e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
